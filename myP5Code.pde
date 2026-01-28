@@ -15,6 +15,22 @@ draw = function(){
   }
 
   //🎯New Text Code Should Go Here 🡻
+  
+  fill (0, 13, 255);
+  textSize (40);
+  text("My Favorite Foods", 150, 47);
+
+  fill (255, 172, 28);
+  textSize (30);
+  text("1. Turkish Lentil Soup", 150, 150);
+
+  fill (139, 64, 0);
+  textSize (30);
+  text("2. Khinkali", 150, 224);
+
+  fill (255, 192, 0);
+  textSize (30);
+  text("3. Khachapuri", 150, 300);
 
 };
 
